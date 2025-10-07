@@ -329,3 +329,4 @@ Sunk serious time into generating new data for Power BI analysis as there was a 
 
 Regenerated in clients_table_completed but now need to reinsert into aggre_db sql into to ensure data consistency across all data. 
 
+
