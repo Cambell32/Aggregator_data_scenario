@@ -1,5 +1,7 @@
 Repository contains all the files related to the Aggregator Data Scenario and includes: 
 
+The original ABS excel and data scenario files 
+
 The Python files that were used to generate the data, and later, extract the data via a SQL connection before transforming data into a CSV for Power BI.
 
 The CSV files that were generated, inserted and retrieved from a MYSQL xampp installation database. 
