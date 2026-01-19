@@ -5,7 +5,7 @@
 These are to be used in the faker_camedit file for data generation. 
                 Loan application 
 For a break down of data to be generated for the approved / committed loans plug in the data from 
-Data Connective Scenario Source: C:\Users\cambe\Desktop\Data Analytics\Data Analyst Scenarios\Connective SaaS scenario\Home Loans_ Australian Mortgage Debt Statistics (2025)_files
+Data Connective Scenario Source: Home Loans_ Australian Mortgage Debt Statistics (2025)_files
 
 Note: for some columns, they are going to portions. E.g. the rate field is going be a variable rate of 98% for the total number
 of approved loans. 
@@ -110,4 +110,5 @@ Client CSV file building
             "client_number": fake.random_number(digits=11, fix_len=True),
             "client_email": fake.email(),
             "client_created_by": random.choice([2,4,5,6,11,14,15,19,23,25,29,32,35,39,42,44,45,48,50,51,52,54,55,56,64,65,67,68,70,73,75,77,78])
+
 """
